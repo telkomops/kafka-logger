@@ -36,8 +36,7 @@
   },
   "dependencies": {
     "kafka-rest-client": "^1.7.0",
-    "winston-uber": "^1.0.0",
-    "xtend": "^4.0.0"
+    "winston": "^1.0.0"
   },
   "devDependencies": {
     "istanbul": "~0.1.46",
